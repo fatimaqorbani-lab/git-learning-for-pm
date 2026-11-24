@@ -9,7 +9,7 @@ This feature allows users to transfer money by scanning a QR code.
 
 1. User opens the QR transfer feature.
 2. User scans the recipient's QR code.
-3. User enters the transfer amount.
+3. User enters the transfer amount and reviews the transaction fee.
 4. User reviews the transaction details.
 5. User confirms the transfer.
 
