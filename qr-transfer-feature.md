@@ -18,5 +18,5 @@ This feature allows users to transfer money by scanning a QR code.
 In Progress
 ## Transfer Status Message
 
-Your transfer is being completed.
+Your transfer is being processed.
 گ
